@@ -10,3 +10,7 @@ In this project I had to:
 5. Create a new directory with each recipe it's own page which linked from the index page.
 6. On the recipe pages link a picture, write a description, list ingredients with an unorganized list and list steps with an ordered list.
 7. Upload to github throughout the process.
+
+As I learned new things I later added additonal formats including flexbox and others.
+
+Credit: Pictures from Unsplash. Chili by American Heritage Chocolate, Spring Rolls by Alexandra Tran @schimiggy, and Tacos by Shannon Nickerson @shan.riley.
