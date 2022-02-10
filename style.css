@@ -1,5 +1,5 @@
 body{
-    background-color: sandybrown;
+    background-color: #99ccff;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -19,6 +19,11 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+ol {
+    margin: 0;
+    padding: 15px;
 }
 
 .directions{

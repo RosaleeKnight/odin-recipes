@@ -13,4 +13,8 @@ In this project I had to:
 
 As I learned new things I later added additonal formats including flexbox and others.
 
-Credit: Pictures from Unsplash. Chili by American Heritage Chocolate, Spring Rolls by Alexandra Tran @schimiggy, and Tacos by Shannon Nickerson @shan.riley.
+Credits: 
+Pictures from Unsplash. 
+Main page by Jason Jarrach, Chili by American Heritage Chocolate, Spring Rolls by Alexandra Tran @schimiggy, and Tacos by Shannon Nickerson @shan.riley.
+Recipes from allrecipes.
+Chili by AR Cook, Spring Rolls by Deborah Mackenzie and Tacos by Cassidy Caroline.
