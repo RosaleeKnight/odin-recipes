@@ -11,7 +11,7 @@ In this project I had to:
 6. On the recipe pages link a picture, write a description, list ingredients with an unorganized list and list steps with an ordered list.
 7. Upload to github throughout the process.
 
-As I learned new things I later added additonal formats including flexbox and others.
+Flexbox was added after to update the look. 
 
 Credits: 
 Pictures from Unsplash. 
