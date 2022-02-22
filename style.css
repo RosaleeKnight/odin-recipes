@@ -37,8 +37,7 @@ ul {
 }
 
 .ingredients {
-    max-height: 500px;
-    max-width: 500px;
+    width: 500px;
     display: flex;
     justify-content: flex-start;
 }
@@ -49,8 +48,7 @@ ol {
 }
 
 .directions {
-    max-height: 500px;
-    max-width: 500px;
+    width: 500px;
     display: flex;
     flex-wrap: wrap;
 }
