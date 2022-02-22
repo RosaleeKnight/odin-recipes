@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #99ccff;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -6,6 +6,19 @@ body{
 img {
     max-width: 500px;
     max-height: 500px;
+}
+
+.front-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
 }
 
 .description {
@@ -21,12 +34,18 @@ ul {
     padding: 0;
 }
 
+.ingredients {
+    max-height: 500px;
+    max-width: 500px;
+    display: flex;
+}
+
 ol {
     margin: 0;
     padding: 15px;
 }
 
-.directions{
+.directions {
     max-height: 500px;
     max-width: 500px;
     display: flex;
