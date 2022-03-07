@@ -1,3 +1,8 @@
+![GitHub top language](https://img.shields.io/github/languages/top/RosaleeKnight/landing-page)
+![GitHub language count](https://img.shields.io/github/languages/count/RosaleeKnight/landing-page)
+![GitHub issues](https://img.shields.io/github/issues/RosaleeKnight/landing-page)
+[![HitCount](https://hits.dwyl.com/RosaleeKnight/landing-page.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/landing-page)
+
 # odin-recipes
 
 This project is to showcase basic knowledge of page set up, formatting and linking.
